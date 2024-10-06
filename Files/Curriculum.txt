@@ -1,0 +1,76 @@
+1,First Semester,CS 111Introduction to Computing,2.0,Not Yet Taken
+1,First Semester,CS 111LIntroduction to Computing (Lab),1.0,Not Yet Taken
+1,First Semester,CS 112Computer Programming 1,2.0,Not Yet Taken
+1,First Semester,CS 112LComputer Programming 1 (Lab),1.0,Not Yet Taken
+1,First Semester,CS 113Discrete Structures,3.0,Not Yet Taken
+1,First Semester,GMATHMathematics in the Modern World,3.0,Not Yet Taken
+1,First Semester,GARTArt Appreciation,3.0,Not Yet Taken
+1,First Semester,GHISTReadings in Philippine History,3.0,Not Yet Taken
+1,First Semester,FIT HWPhysical Activity Towards Health and Fitness (Health and Wellness),2.0,Not Yet Taken
+1,First Semester,CFE 101God’s Journey with His People,3.0,Not Yet Taken
+1,Second Semester,CS 121Digital Logic Design,3.0,Not Yet Taken
+1,Second Semester,CS 122Computer Programming 2,2.0,Not Yet Taken
+1,Second Semester,CS 122LComputer Programming 2 (Lab),1.0,Not Yet Taken
+1,Second Semester,CS 123Architecture and Organization,2.0,Not Yet Taken
+1,Second Semester,CS 123LArchitecture and Organization (Lab),1.0,Not Yet Taken
+1,Second Semester,GSELFUnderstanding the Self,3.0,Not Yet Taken
+1,Second Semester,GPCOMPurposive Communication,3.0,Not Yet Taken
+1,Second Semester,GENVIEnvironmental Science,3.0,Not Yet Taken
+1,Second Semester,FIT CSPhysical Activity Towards Health and Fitness (Combative Sports),2.0,Not Yet Taken
+1,Second Semester,CFE 102Christian Morality in Our Times,3.0,Not Yet Taken
+1,Short Semester,CS 131Software Modeling and Analysis,3.0,Not Yet Taken
+1,Short Semester,CS 132Mathematics for Computer Science,3.0,Not Yet Taken
+2,First Semester,CS 211Data Structures,2.0,Not Yet Taken
+2,First Semester,CS 211LData Structures (Lab),1.0,Not Yet Taken
+2,First Semester,CS 212Operating Systems,2.0,Not Yet Taken
+2,First Semester,CS 212LOperating Systems (Lab),1.0,Not Yet Taken
+2,First Semester,CS 213Human Computer Interaction,3.0,Not Yet Taken
+2,First Semester,GSTSScience Technology and Society,3.0,Not Yet Taken
+2,First Semester,GRVAReading Visual Art,3.0,Not Yet Taken
+2,First Semester,NSTP-CWTS 1Foundations of Service,3.0,Not Yet Taken
+2,First Semester,FIT OAPhysical Activity Towards Health and Fitness (Outdoor and Adventure Activities),2.0,Not Yet Taken
+2,First Semester,CFE 103Catholic Foundation of Mission,3.0,Not Yet Taken
+2,Second Semester,CS 221Information Management,2.0,Not Yet Taken
+2,Second Semester,CS 221LInformation Management (Lab),1.0,Not Yet Taken
+2,Second Semester,CS 222Computer Programming 3,2.0,Not Yet Taken
+2,Second Semester,CS 222LComputer Programming 3 (Lab),1.0,Not Yet Taken
+2,Second Semester,CS 223Automata and Formal Languages,3.0,Not Yet Taken
+2,Second Semester,GETHICSEthics,3.0,Not Yet Taken
+2,Second Semester,GCWORLDThe Contemporary World,3.0,Not Yet Taken
+2,Second Semester,NSTP-CWTS 2Social Awareness and Empowerment for Service,3.0,Not Yet Taken
+2,Second Semester,FIT AQPhysical Activity Towards Health and Fitness (Aquatics),2.0,Not Yet Taken
+2,Second Semester,CFE 104CICM Missionary Identity,3.0,Not Yet Taken
+2,Short Semester,CS 231Computer Networks,2.0,Not Yet Taken
+2,Short Semester,CS 231LComputer Networks (Lab),1.0,Not Yet Taken
+2,Short Semester,GRIZALThe Life and Works of Rizal,3.0,Not Yet Taken
+2,Short Semester,GENTREPThe Entrepreneurial Mind,3.0,Not Yet Taken
+3,First Semester,CS 311Applications Development,2.0,Not Yet Taken
+3,First Semester,CS 311LApplications Development (Lab),1.0,Not Yet Taken
+3,First Semester,CS 312Web Systems Development,2.0,Not Yet Taken
+3,First Semester,CS 312LWeb Systems Development (Lab),1.0,Not Yet Taken
+3,First Semester,CS 313Software Engineering,3.0,Not Yet Taken
+3,First Semester,CS 314Social and Personal Development in the ICT Workplace,3.0,Not Yet Taken
+3,First Semester,CS 315Technology-Assisted Presentation and Presentation,3.0,Not Yet Taken
+3,First Semester,CSM 316Numerical Methods for Computer Science,3.0,Not Yet Taken
+3,First Semester,CFE 105ACICM in Action: Justice Peace and Integrity of Creation Indigenous Peoples and Interreligious Dialogue,1.5,Not Yet Taken
+3,Second Semester,CS 321Artificial Intelligence,3.0,Not Yet Taken
+3,Second Semester,CS 322Data Science,2.0,Not Yet Taken
+3,Second Semester,CS 322LData Science (Lab),1.0,Not Yet Taken
+3,Second Semester,CS 323Modeling and Simulation,2.0,Not Yet Taken
+3,Second Semester,CS 323LModeling and Simulation (Lab),1.0,Not Yet Taken
+3,Second Semester,CS 324Methods of Research in Computer Science,3.0,Not Yet Taken
+3,Second Semester,CS 325Structure of Programming Languages,3.0,Not Yet Taken
+3,Second Semester,CFE 105BCICM in Action:Environmental Planning and Management and Disaster Risk Reduction Management,1.5,Not Yet Taken
+3,Short Semester,CS 331Practicum,6.0,Not Yet Taken
+4,First Semester,CFE 106AEmbracing the CICM Mission ,1.5,Not Yet Taken
+4,First Semester,CS 411CS Thesis 1,3.0,Not Yet Taken
+4,First Semester,CS 412Information Assurance and Security,3.0,Not Yet Taken
+4,First Semester,CS 413Professional Practice and Cyberethics,3.0,Not Yet Taken
+4,First Semester,CSEElective 1,3.0,Not Yet Taken
+4,First Semester,CSEElective 2,3.0,Not Yet Taken
+4,Second Semester,CFE 106BEmbracing the CICM Mission ,1.5,Not Yet Taken
+4,Second Semester,CS 421CS Thesis 2,3.0,Not Yet Taken
+4,Second Semester,CS 422Distributed Computing,3.0,Not Yet Taken
+4,Second Semester,FOR LANG 1Foreign Language 1,3.0,Not Yet Taken
+4,Second Semester,CSEElective 3,3.0,Not Yet Taken
+4,Second Semester,CSEElective 4,3.0,Not Yet Taken

@@ -1,0 +1,18 @@
+2243846,Marcos Don,57
+2248752,Aquino John,55
+2247345,Ramos Mark,63
+2248765,Arroyo Gray,54
+2249090,Duterte Bon,59
+2247878,Aquino Mary,58
+2246565,Marcos Frank,50
+2243322,Macapagal Deo,78
+2247667,Magsaysay Luis,90
+2240034,Garcia Joan,86
+2241819,Estrada Lui, 20
+2243233,Aguinaldo Sol,75
+2248888,Quezon Ram,73
+2241122,Laurel Mary,60
+2240809,Quirino Ben,70
+2247763,Roxas Sue,79
+2245455,Osmena kay,66
+2244491,Aguinaldo Lea,82
